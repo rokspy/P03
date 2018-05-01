@@ -5,4 +5,5 @@
 * Nostiprināt zināšanas par Git
 * Iemācīties kompilēt LaTeX dokumentus lokāli
 
-  Šijā laboratorijas darbā bija jāveic iepriekšējā laboratorijas darba uzlabojumi un jāiemācās apieties ar plašajām LaTeX iespējām. Beigās LaTeX iegūtais rezultāts bija jālejuplādē un ar github palidzību jānosūta uz studenta mapi RTU serverī.
+## Īss apraksts
+Šijā laboratorijas darbā bija jāveic iepriekšējā laboratorijas darba uzlabojumi un jāiemācās apieties ar plašajām LaTeX iespējām. Beigās LaTeX iegūtais rezultāts bija jālejuplādē un ar github palidzību jānosūta uz studenta mapi RTU serverī.
